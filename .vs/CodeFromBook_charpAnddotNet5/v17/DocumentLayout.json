@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\custominterface\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|solutionrelative:custominterface\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\custominterface\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|solutionrelative:custominterface\\ipointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\Triangle.cs",
+              "RelativeDocumentMoniker": "CustomInterface\\Triangle.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\Triangle.cs",
+              "RelativeToolTip": "CustomInterface\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:30:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPointy.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\IPointy.cs",
+              "RelativeDocumentMoniker": "CustomInterface\\IPointy.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\IPointy.cs",
+              "RelativeToolTip": "CustomInterface\\IPointy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:30:53.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Radio.cs",
+              "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Radio.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Radio.cs",
+              "RelativeToolTip": "ProcessMultipleExceptions\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:28:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarIsDeadException.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\CarIsDeadException.cs",
+              "RelativeDocumentMoniker": "ProcessMultipleExceptions\\CarIsDeadException.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\CarIsDeadException.cs",
+              "RelativeToolTip": "ProcessMultipleExceptions\\CarIsDeadException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:28:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Car.cs",
+              "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Car.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Car.cs",
+              "RelativeToolTip": "ProcessMultipleExceptions\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:28:50.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Program.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Program.cs",
+              "RelativeToolTip": "ProcessMultipleExceptions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:27:44.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

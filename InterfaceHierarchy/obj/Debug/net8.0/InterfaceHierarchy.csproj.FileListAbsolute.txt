@@ -1,0 +1,14 @@
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.exe
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.deps.json
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.runtimeconfig.json
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.dll
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.pdb
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfo.cs
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.dll
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\refint\InterfaceHierarchy.dll
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.pdb
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.genruntimeconfig.cache
+E:\dotnetProjects\CodeFromBook_charpAnddotNet5\InterfaceHierarchy\obj\Debug\net8.0\ref\InterfaceHierarchy.dll
