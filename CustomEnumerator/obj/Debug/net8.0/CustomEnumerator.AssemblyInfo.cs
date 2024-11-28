@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProcessMultipleExceptions")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CustomEnumerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee12f5ffcbbe013356d743a10db87aa7cb1341e")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProcessMultipleExceptions")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProcessMultipleExceptions")]
+[assembly: System.Reflection.AssemblyProductAttribute("CustomEnumerator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CustomEnumerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

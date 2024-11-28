@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MiInterfaceHierarchy
 {
-    internal interface IShape
+    interface IShape : IDrawable, IPrintable
     {
+        int GetNumberOfSides();
     }
+
 }

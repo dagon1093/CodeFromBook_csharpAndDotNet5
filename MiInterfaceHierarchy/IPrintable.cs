@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MiInterfaceHierarchy
 {
-    internal interface IPrintable
+    interface IPrintable
     {
+        void Print();
+        void Draw(); // <-- Здесь возможен конфликт имен!
     }
+
 }
