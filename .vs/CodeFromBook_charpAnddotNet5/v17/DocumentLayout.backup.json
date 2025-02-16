@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE5B016A-B5A4-4F77-8667-756EA7E10DF1}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumeratorwithyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5B016A-B5A4-4F77-8667-756EA7E10DF1}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5B016A-B5A4-4F77-8667-756EA7E10DF1}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumeratorwithyield\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5B016A-B5A4-4F77-8667-756EA7E10DF1}|CustomEnumeratorWithYield\\CustomEnumeratorWithYield.csproj|solutionrelative:customenumeratorwithyield\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|solutionrelative:customenumerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumerator\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|solutionrelative:customenumerator\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumerator\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|solutionrelative:customenumerator\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\customenumerator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734B08CB-1346-4414-8D2F-02CF3E351475}|CustomEnumerator\\CustomEnumerator.csproj|solutionrelative:customenumerator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\custominterface\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76322765-65DE-4A27-9654-690E5D1629A4}|CustomInterface\\CustomInterface.csproj|solutionrelative:custominterface\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|e:\\dotnetprojects\\codefrombook_charpanddotnet5\\processmultipleexceptions\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{389691EA-6D56-4475-946C-8E4B24DB7078}|ProcessMultipleExceptions\\ProcessMultipleExceptions.csproj|solutionrelative:processmultipleexceptions\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,8 +58,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumeratorWithYield\\Program.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\Program.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumeratorWithYield\\Program.cs*",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:21:19.493Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -53,8 +91,78 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumeratorWithYield\\Garage.cs",
+              "RelativeDocumentMoniker": "CustomEnumeratorWithYield\\Garage.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumeratorWithYield\\Garage.cs*",
+              "RelativeToolTip": "CustomEnumeratorWithYield\\Garage.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:15:31.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Garage.cs",
+              "RelativeDocumentMoniker": "CustomEnumerator\\Garage.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Garage.cs",
+              "RelativeToolTip": "CustomEnumerator\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:29:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Radio.cs",
+              "RelativeDocumentMoniker": "CustomEnumerator\\Radio.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Radio.cs",
+              "RelativeToolTip": "CustomEnumerator\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:29:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Car.cs",
+              "RelativeDocumentMoniker": "CustomEnumerator\\Car.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Car.cs",
+              "RelativeToolTip": "CustomEnumerator\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:28:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Program.cs",
+              "RelativeDocumentMoniker": "CustomEnumerator\\Program.cs",
+              "ToolTip": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomEnumerator\\Program.cs",
+              "RelativeToolTip": "CustomEnumerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:27:54.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Triangle.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\Triangle.cs",
               "RelativeDocumentMoniker": "CustomInterface\\Triangle.cs",
@@ -62,12 +170,11 @@
               "RelativeToolTip": "CustomInterface\\Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:30:56.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T20:30:56.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IPointy.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\CustomInterface\\IPointy.cs",
               "RelativeDocumentMoniker": "CustomInterface\\IPointy.cs",
@@ -75,12 +182,11 @@
               "RelativeToolTip": "CustomInterface\\IPointy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:30:53.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T20:30:53.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Radio.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Radio.cs",
               "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Radio.cs",
@@ -88,12 +194,11 @@
               "RelativeToolTip": "ProcessMultipleExceptions\\Radio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:28:56.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T20:28:56.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CarIsDeadException.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\CarIsDeadException.cs",
               "RelativeDocumentMoniker": "ProcessMultipleExceptions\\CarIsDeadException.cs",
@@ -101,12 +206,11 @@
               "RelativeToolTip": "ProcessMultipleExceptions\\CarIsDeadException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:28:54.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T20:28:54.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Car.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Car.cs",
               "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Car.cs",
@@ -114,12 +218,11 @@
               "RelativeToolTip": "ProcessMultipleExceptions\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:28:50.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T20:28:50.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\dotnetProjects\\CodeFromBook_charpAnddotNet5\\ProcessMultipleExceptions\\Program.cs",
               "RelativeDocumentMoniker": "ProcessMultipleExceptions\\Program.cs",
